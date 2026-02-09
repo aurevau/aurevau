@@ -14,7 +14,7 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - Improving architecture patterns
 - Exploring cross-platform frameworks
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 - Kotlin
 - Java
 - Jetpack Compose
@@ -24,13 +24,13 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - Figma
 - Lucid: UML-Diagram
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 - Clean Architecture
 - MVVM
 - REST APIs
 - Modern Android Development
 
-# 🚀 Goals
+### 🚀 Goals
 - Build useful mobile apps
 - Improve UI/UX
 - Collaborate on open-source projects
