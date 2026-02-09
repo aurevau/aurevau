@@ -35,7 +35,7 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - Improve UI/UX
 - Collaborate on open-source projects
 
-# 💻 Android apps made for school projects:
+### 💻 Android apps made for school projects:
   👉 Repo:  https://github.com/aurevau/chatApplicationGroup1
   👉 Repo:  https://github.com/aurevau/warCardGame
 
