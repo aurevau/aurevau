@@ -9,6 +9,9 @@
 - Jetpack Compose
 - Android Studio
 - Git & GitHub
+- Trello
+- Figma
+- Lucid: UML-Diagram
 
 ## 🌱 Currently Learning
 - Clean Architecture
