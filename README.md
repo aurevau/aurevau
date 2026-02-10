@@ -3,13 +3,13 @@
 I am an Application Developer Student  
 Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React, and Swift.
 
-## I’m currently working on...
-- **Goal Tracking App**  
-  Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
-  👉 Repo: https://github.com/aurevau/task
-  
+## I’m currently working on...  
 - **War Card Game App** (my first Android project during my studies, now being further developed using newly acquired skills)  
   👉 Repo: https://github.com/aurevau/warCardGameCompose
+
+  - **Goal Tracking App**  
+  Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
+  👉 Repo: https://github.com/aurevau/task
 
 - Improving architecture patterns
 - Exploring cross-platform frameworks
