@@ -27,8 +27,10 @@ Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines
 
 ### Currently Learning
 - Clean Architecture
+- To Build Scalable Systems
 - MVVM
 - REST APIs
+- Hilt
 - Modern Android Development
 
 ### Goals
