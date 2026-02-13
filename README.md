@@ -25,7 +25,7 @@ Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines
 - Figma
 - Lucid: UML-Diagram
 
-## Backend & API Experience
+### Backend & API Experience
 
 I have experience building frontend applications that consume backend services using Firebase.
 
