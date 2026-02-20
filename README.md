@@ -1,7 +1,7 @@
 # Hi, I'm Jill Aurelie 👋
 
 I am an Application Developer Student  
-Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React Native, and Swift.
+Focusing on Android development with Kotlin & Jetpack Compose.
 
 ## I’m currently working on...  
 - Improving architecture patterns
