@@ -1,6 +1,7 @@
 # Hej!
 
 Vem är jag? 
+
 Aurelie heter jag och studerar till Mobilapplikationsutvecklare vid Folkuniversitetet. 
 Jag letar efter LIA inom iOS-utveckling, Android-utveckling och/eller Crossplattform. 
 Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mig, snarare tvärtom ser jag det som en rolig och lärorik utmaning. 
