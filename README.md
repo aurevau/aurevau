@@ -76,7 +76,7 @@ Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med back
   👉 Repo:  https://github.com/aurevau/warCardGame
   👉 Repo:  https://github.com/EN-MA25/TicitiTacitiToe
 
-## IOS appar skapade i skolprojekt: 
+### IOS appar skapade i skolprojekt: 
  👉 Repo:  [https://github.com/aurevau/chatApplicationGroup1](https://github.com/Amandamandaanda/Quizilla)
  👉 Repo:  https://github.com/aurevau/TodoAppSwiftUI
 
