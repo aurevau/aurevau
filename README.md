@@ -6,10 +6,10 @@ Jag letar efter LIA inom iOS-utveckling, Android-utveckling och/eller Crossplatt
 Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mig, snarare tvärtom ser jag det som en rolig och lärorik utmaning. 
 
 ### Slutförda kurser ###
-- Java Grunder (VG)
-- Androidutveckling (VG)
-- Android Projekt (VG)
-- Agila Utveckling (VG)
+- Java Grunder 
+- Androidutveckling 
+- Android Projekt 
+- Agila Utveckling 
 
 ### Pågående kurser: ###
 - iOS Utveckling
