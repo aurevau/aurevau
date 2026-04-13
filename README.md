@@ -1,4 +1,4 @@
-# Hej!,
+# Hej!
 
 Vem är jag? 
 Aurelie heter jag och studerar till Mobilapplikationsutvecklare vid Folkuniversitetet. 
