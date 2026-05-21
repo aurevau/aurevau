@@ -9,13 +9,13 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - Java Grunder 
 - Androidutveckling 
 - Android Projekt 
-- Agila Utveckling 
+- Agila Utveckling
+- IOS Utveckling
 
 ### Pågående kurser: ###
-- iOS Utveckling
+- iOS Projekt
 
 ### Kommande kurser ###
-- iOS Projekt
 - Crossplattformutveckling
 - Apputveckling mot molnet
 - LIA 1: Vecka 49 - 7
