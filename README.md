@@ -23,11 +23,12 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - LIA 2: Vecka 14 - 23
 
 ## Fokuserar just nu på...  
-- Lära mig så mycket jag kan om Swift och SwiftUI.
+- Flutter, Node.js, MongoDB, Dart.
+- Swift, SwiftUI.
 - Förbättra arkitekturmönster och arbeta efter Separation of Concerns.
 - Bygga användarvänliga appar med bra användargränssnitt. 
 - Bygga skalbara system med MVVM.
-- Navigation 3 (Android)
+- Navigationsmönster. 
 - Jetpack Compose (Android)
 - Viewmodel Injection (Android)
   - Hilt, Koin
