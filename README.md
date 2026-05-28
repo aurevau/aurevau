@@ -45,12 +45,14 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - Swift
 - SwiftUI
 - SwiftData
+- Dart
 
 **IDEs & Verktyg**
 - Android Studio
 - XCode
 - Git & GitHub
 - Trello
+- VSCode
 
 **Design & Prototyping**
 - Figma
@@ -60,17 +62,32 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - After Effects
 - Premiere Pro
 
+**Backend**
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- Firebase (Firestore, Authentication, Storage)
+
 ### Backend & API-erfarenhet
-Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med backendtjänster via Firebase. 
+Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med backendtjänster.
 - Interagerat Firebase Firestore, Authentication och Storage som backendtjänster.
 - Konsumerat backend-data via APIs med Firebase SDK.
 - Omvandlat tekniska datastrukturer till ett tydligt och användarvänligt gränssnitt.
-- Implementerat laddningslägen, felhantering och responsiv/dynamisk UX. 
+- Implementerat laddningslägen, felhantering och responsiv/dynamisk UX.
+- Byggt REST APIs med Node.js och Express.
+- Använt MOongoDB som databas med Mongoose.
+- Kopplat ihop Flutter-app mot eget Node/MongoDB-backend. 
 
 ### Mina Mål
 - Bygga användbara appar.
 - Förbättra UI/UX
-- Hitta en rolig och lärorik LIA där jag kan utveckla mina färdigheter tillsammans med erfarna och nyfikna utvecklare. 
+- Hitta en rolig och lärorik LIA där jag kan utveckla mina färdigheter tillsammans med erfarna och nyfikna utvecklare.
+
+### Pågående projekt: 
+  👉 Repo: https://github.com/Amandamandaanda/Snusless
+  👉 Repo: https://github.com/aurevau/flutter_todo
+  👉 Repo: https://github.com/aurevau/todo_backend
 
 ### Android appar skapade i skolprojekt:
   👉 Repo:  https://github.com/aurevau/chatApplicationGroup1
@@ -78,8 +95,9 @@ Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med back
   👉 Repo:  https://github.com/EN-MA25/TicitiTacitiToe
 
 ### IOS appar skapade i skolprojekt: 
- 👉 Repo:  [https://github.com/aurevau/chatApplicationGroup1](https://github.com/Amandamandaanda/Quizilla)
- 👉 Repo:  https://github.com/aurevau/TodoAppSwiftUI
+  👉 Repo:  https://github.com/aurevau/HabitTrackerAssignment
+  👉 Repo:  https://github.com/aurevau/TodoAppSwiftUI
+
 
 
 **LinkedIn:** [[https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/](https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/)](https://www.linkedin.com/feed/)
