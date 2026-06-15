@@ -11,9 +11,10 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - Android Projekt 
 - Agila Utveckling
 - IOS Utveckling
+- IOS Projekt
 
-### Pågående kurser: ###
-- iOS Projekt
+### Sommarens fokus: ###
+- Flutter, Dart, MongoDB, Node.JS
 
 ### Kommande kurser ###
 - Crossplattformutveckling
