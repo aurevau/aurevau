@@ -14,7 +14,8 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - IOS Projekt
 
 ### Sommarens fokus: ###
-- Flutter, Dart, MongoDB, Node.JS
+- Förstå mer om crossplattformutveckling och andra typer av backend.
+- Flutter, Dart, MongoDB, Node.JS, React, React Native
 
 ### Kommande kurser ###
 - Crossplattformutveckling
@@ -26,14 +27,10 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 ## Fokuserar just nu på...  
 - Flutter, Node.js, MongoDB, Dart.
 - Swift, SwiftUI.
-- Förbättra arkitekturmönster och arbeta efter Separation of Concerns.
-- Bygga användarvänliga appar med bra användargränssnitt. 
-- Bygga skalbara system med MVVM.
+- Arkitekturmönster och arbeta efter Separation of Concerns.
+- Skalbara system med MVVM.
 - Navigationsmönster. 
-- Jetpack Compose (Android)
-- Viewmodel Injection (Android)
-  - Hilt, Koin
-- Utforska mer kring crossplattform-ramverk
+- Crossplattform-ramverk
 - REST APIs
 
 
@@ -47,6 +44,8 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - SwiftUI
 - SwiftData
 - Dart
+- Flutter
+- React
 
 **IDEs & Verktyg**
 - Android Studio
@@ -85,7 +84,7 @@ Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med back
 - Förbättra UI/UX
 - Hitta en rolig och lärorik LIA där jag kan utveckla mina färdigheter tillsammans med erfarna och nyfikna utvecklare.
 
-### Pågående projekt: 
+### Blandade projekt: 
   👉 Repo: https://github.com/Amandamandaanda/Snusless
   👉 Repo: https://github.com/aurevau/flutter_todo
   👉 Repo: https://github.com/aurevau/todo_backend
