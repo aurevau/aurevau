@@ -3,7 +3,7 @@
 Vem är jag? 
 
 Aurelie heter jag och studerar till Mobilapplikationsutvecklare vid Folkuniversitetet. 
-Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mig, snarare tvärtom ser jag det som en rolig och lärorik utmaning. 
+Jag gillar att lära mig nya saker, så nya programmeringsspråk och IDEer är inget som skrämmer mig, snarare tvärtom. För mig är det viktigt att jag lär mig bygga skalbara system med MVVM och arbeta efter arkitektursprinciper som Separation of Concerns, med särskilt fokus på robusta navigationssystem och användarvänliga applikationer. Jag tar min examen 2 april 2027. 
 
 ### Slutförda kurser ###
 - Java Grunder 
@@ -14,25 +14,13 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - IOS Projekt
 
 ### Sommarens fokus: ###
-- Förstå mer om crossplattformutveckling och andra typer av backend.
-- Flutter, Dart, MongoDB, Node.JS, React, React Native
+- Flutter, Dart, MongoDB, Node.JS, Express, Prisma, PostgreSQL, React, NextJS
 
 ### Kommande kurser ###
 - Crossplattformutveckling
 - Apputveckling mot molnet
-- LIA 1: Vecka 49 - 7
-- Examensarbete
-- LIA 2: Vecka 14 - 23
-
-## Fokuserar just nu på...  
-- Flutter, Node.js, MongoDB, Dart.
-- Swift, SwiftUI.
-- Arkitekturmönster och arbeta efter Separation of Concerns.
-- Skalbara system med MVVM.
-- Navigationsmönster. 
-- Crossplattform-ramverk
-- REST APIs
-
+- LIA 1 & 2 på We Know IT
+- Examensarbete 
 
 ### Tech Stack
 **Utveckling**
@@ -54,6 +42,15 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - Trello
 - VSCode
 
+**Backend**
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+- MongoDB
+- Mongoose
+- Firebase (Firestore, Authentication, Storage)
+
 **Design & Prototyping**
 - Figma
 - Lucid: UML-Diagram
@@ -61,28 +58,6 @@ Jag tycker om att lära mig, så nya språk och IDEer är inget som skrämmer mi
 - Photoshop
 - After Effects
 - Premiere Pro
-
-**Backend**
-- Node.js
-- Express
-- MongoDB
-- Mongoose
-- Firebase (Firestore, Authentication, Storage)
-
-### Backend & API-erfarenhet
-Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med backendtjänster.
-- Interagerat Firebase Firestore, Authentication och Storage som backendtjänster.
-- Konsumerat backend-data via APIs med Firebase SDK.
-- Omvandlat tekniska datastrukturer till ett tydligt och användarvänligt gränssnitt.
-- Implementerat laddningslägen, felhantering och responsiv/dynamisk UX.
-- Byggt REST APIs med Node.js och Express.
-- Använt MOongoDB som databas med Mongoose.
-- Kopplat ihop Flutter-app mot eget Node/MongoDB-backend. 
-
-### Mina Mål
-- Bygga användbara appar.
-- Förbättra UI/UX
-- Hitta en rolig och lärorik LIA där jag kan utveckla mina färdigheter tillsammans med erfarna och nyfikna utvecklare.
 
 ### Blandade projekt: 
   👉 Repo: https://github.com/Amandamandaanda/Snusless
@@ -97,8 +72,6 @@ Jag har erfarenhet av att bygga frontend-applikationer som kommunicerar med back
 ### IOS appar skapade i skolprojekt: 
   👉 Repo:  https://github.com/aurevau/HabitTrackerAssignment
   👉 Repo:  https://github.com/aurevau/TodoAppSwiftUI
-
-
 
 **LinkedIn:** [[https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/](https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/)](https://www.linkedin.com/feed/)
 
