@@ -3,7 +3,7 @@
 Vem är jag? 
 
 Aurelie heter jag och studerar till Mobilapplikationsutvecklare vid Folkuniversitetet. 
-Jag gillar att lära mig nya saker, så nya programmeringsspråk och IDEer är inget som skrämmer mig, snarare tvärtom. För mig är det viktigt att jag lär mig bygga skalbara system med MVVM och arbeta efter arkitektursprinciper som Separation of Concerns, med särskilt fokus på robusta navigationssystem och användarvänliga applikationer. Jag tar min examen 2 april 2027. 
+Jag gillar att lära mig nya saker, så nya programmeringsspråk och IDEer är inget som skrämmer mig, snarare tvärtom. För mig är det viktigt att jag lär mig bygga skalbara system med MVVM och arbeta efter arkitektursprinciper som Separation of Concerns, med särskilt fokus på robusta navigationssystem och användarvänliga applikationer. Jag tar min examen början av 2027.
 
 ### Slutförda kurser ###
 - Java Grunder 
