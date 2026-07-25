@@ -41,6 +41,7 @@ Jag gillar att lära mig nya saker, så nya programmeringsspråk och IDEer är i
 - Git & GitHub
 - Trello
 - VSCode
+- Postman
 
 **Backend**
 - Node.js
