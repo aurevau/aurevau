@@ -60,6 +60,10 @@ Jag gillar att lära mig nya saker, så nya programmeringsspråk och IDEer är i
 - After Effects
 - Premiere Pro
 
+### Pågående projekt:
+Fullstack Flutter app:
+👉https://github.com/aurevau/watchlist_fullstack.git
+
 ### Blandade projekt: 
   👉 Repo: https://github.com/Amandamandaanda/Snusless
   👉 Repo: https://github.com/aurevau/flutter_todo
